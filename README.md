@@ -40,12 +40,13 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipseide&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Intelij-informational?style=flat&logo=intelij&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intelijidea-informational?style=flat&logo=intelijidea&logoColor=white&color=2bbc8a)
 
 ## 📫 &nbsp; How to reach me:
 
