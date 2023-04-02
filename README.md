@@ -9,15 +9,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm an experienced Program Manager with a new found love for programming.\
-🎓 &nbsp;Pursuing Masters in Computer Science from [WOOLF University](https://woolf.university/about) \
-🎓 &nbsp;I'm currently a postgraduate student studying Artificial Intelligence at the [School of Aerospace at Cranfield University](https://dspace.lib.cranfield.ac.uk/handle/1826/8736). \
-🛠 &nbsp;My last work project was building [NodeIQ](https://locus.sh/products/nodeiq) at [Locus.sh](https://locus.sh). I have previously worked for [Practo](http://practo.com/). \
-🌱 &nbsp;The brain fascinates me and you had me at Computational Neuroscience.\
-🌱 &nbsp;The space is where we are headed, and that just might save us from impending doom.\
-✉️ &nbsp;You can email me at tanmaykacker40@gmail.com.
+💡 &nbsp;I am a developer with 5 years of inter-disciplinary experience ranging from development to program management.\
+🎓 &nbsp;I'm currently a postgraduate student studying Computer Science at the [WOOLF University](https://woolf.university/colleges/9b17f5ce-1078-4fdf-aec0-02bf4ecfb0a6). \
+🛠 &nbsp;My last role was as Program Manager for Amazon India, where I helped plan and execute complex projects. \
+✉️ &nbsp;You can email me at itsshamshad@outlook.com.
 
-## 📚 Latest publications
+<!-- ## 📚 Latest publications
 
 - [Multi-Spectral Fusion using Generative Adversarial Networks for UAV Detection of Wild Fires](https://ieeexplore.ieee.org/document/10067042)
 
@@ -33,15 +30,14 @@
 ## 📖 &nbsp; Reading list
 
 - [ ] [The Emperor's New Mind](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
-- [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence)
+- [ ] [On Intelligence](https://www.goodreads.com/book/show/27539.On_Intelligence) -->
 
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
@@ -60,6 +56,9 @@
 ### If you like what I do
 
 <a href="https://www.buymeacoffee.com/shamshadCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
+
 # test
+
 # shamshadCodes
+
 # shamshadCodes
