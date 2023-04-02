@@ -51,14 +51,8 @@
 ## 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/bluetraincoltrane/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:tanmaykacker40@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:itsshamshad@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
-### If you like what I do
+<!-- ### If you like what I do
 
-<a href="https://www.buymeacoffee.com/shamshadCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a>
-
-# test
-
-# shamshadCodes
-
-# shamshadCodes
+<a href="https://www.buymeacoffee.com/shamshadCodes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me Chai" width="150" ></a> -->
