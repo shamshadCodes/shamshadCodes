@@ -10,9 +10,9 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I am a developer with 5 years of inter-disciplinary experience ranging from development to program management.\
-🎓 &nbsp;I'm currently a postgraduate student studying Computer Science at the [WOOLF University](https://woolf.university/colleges/9b17f5ce-1078-4fdf-aec0-02bf4ecfb0a6). \
+🎓 &nbsp;I have a Masters degree in Computer Science at the [WOOLF University](https://woolf.university/colleges/9b17f5ce-1078-4fdf-aec0-02bf4ecfb0a6). \
 🛠 &nbsp;My last role was as Program Manager for Amazon India, where I helped plan and execute complex projects. \
-✉️ &nbsp;You can email me at itsshamshad@outlook.com
+✉️ &nbsp;You can email me at its.shamshad@outlook.com
 
 <!-- ## 📚 Latest publications
 
